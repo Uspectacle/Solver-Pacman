@@ -1,0 +1,1 @@
+from gym_pacman.envs.pacman import PacmanEnv
